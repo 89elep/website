@@ -1,0 +1,17 @@
+ <!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>89e Les Enfants Perdus</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+  </head>
+  <body>
+	<div id="content">
+  		<img class="logo" src="https://imgur.com/ghW3jea.png">
+  		<br>
+  		<p class="copy">Les Enfants Perdus are an active, but casual Holdfast regiment. <br> We participate in organized training, pubstomping, and competitive events. <br> We are currently accepting new recruits. Join our Discord to learn more.</p>
+  		<br>
+  		<a href="https://discord.gg/H2zRA2p"><img src="https://i.imgur.com/xOQm4ke.png" width=300></a>
+	</div>
+  </body>
+</html>
